@@ -1,0 +1,7 @@
+C:\POO\caNum_complexo\caNum_complexo\bin\Debug\caNum_complexo.exe.config
+C:\POO\caNum_complexo\caNum_complexo\bin\Debug\caNum_complexo.exe
+C:\POO\caNum_complexo\caNum_complexo\bin\Debug\caNum_complexo.pdb
+C:\POO\caNum_complexo\caNum_complexo\obj\Debug\caNum_complexo.csproj.AssemblyReference.cache
+C:\POO\caNum_complexo\caNum_complexo\obj\Debug\caNum_complexo.csproj.CoreCompileInputs.cache
+C:\POO\caNum_complexo\caNum_complexo\obj\Debug\caNum_complexo.exe
+C:\POO\caNum_complexo\caNum_complexo\obj\Debug\caNum_complexo.pdb
